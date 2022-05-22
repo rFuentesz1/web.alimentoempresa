@@ -2,6 +2,27 @@ body {
     margin: 0;
 }
 
+.svg-inline--fa {
+    padding: 0;
+    margin: 0;
+    width: 10%;
+}
+
+.social-icons ul {
+    padding: 5px 0;
+    margin: 0px;
+}
+
+.social-icons ul li {
+    padding: 0;
+    margin: 0;
+    display: inline;
+}
+
+.header-top {
+    background-color: aquamarine;
+}
+
 .navbar ul {
     list-style-type: none;
     margin: 0;
